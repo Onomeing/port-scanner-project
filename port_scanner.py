@@ -1,3 +1,4 @@
+print("=== Python Port Scanner ===")
 import socket
 
 target = input("Enter IP address or hostname: ")
